@@ -1,5 +1,5 @@
 #Description
-This is a professional portfolio from Fabio Silveira. Createad to introduce himself to employers who seeks a Junior Developers to join their teams. Furtermore, to highlight some of the projects he has worked on and also conctact info by phone, e-mail or GitHub attached on the bottom of the page.
+This is a professional portfolio from Fabio Silveira. Createad to introduce himself to employers who seeks a Junior Developers to join their teams. Furtermore, to highlight some of the projects he has worked on and also contact info by phone, e-mail or GitHub attached on the bottom of the page.
 
 Installation
 N/A

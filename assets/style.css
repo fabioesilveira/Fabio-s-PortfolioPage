@@ -25,7 +25,7 @@ body {
 
 h1{
     text-align: center;
-    margin-top: 40px;
+    margin-top: 45px;
     font-family: "press start 2p", "consolas", "sans-serif";
     color: white
     
@@ -58,6 +58,8 @@ p{
 }
 
 .fabio{
+    
+    
     background-color: green;
     border: 2px solid;
     position: center;
@@ -97,6 +99,10 @@ footer{
     font-size: 14px;
  }
 
+ #end {
+    font-size: 14px;
+ }
+
  a:link{
     font-size: 20px;
     color: rgb(245, 236, 236);
@@ -113,6 +119,10 @@ a:visited{
     color:white
 }
 
+li a {
+
+    font-size: 12px;
+}
 
 
 
